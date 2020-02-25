@@ -56,7 +56,7 @@ forEach(array4, function(item, index) {
 
 ## Example
 
-[The example is here](https://jsf--create-foreach.now.sh).
+[The example is here](https://jsf-create-foreach.now.sh).
 
 ## Task
 
